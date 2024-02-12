@@ -5,6 +5,7 @@ The dataset contains information about Airbnb in New York. Price analysis can re
 - [Technologies](#Technologies)
 - [EDA](#EDA)
 - [Prediction](#Prediction)
+- [Conclusion](#Conclusion)
 
 ## Technologies
 - Pandas - for loading data
@@ -47,5 +48,6 @@ Modeling:
 ![image](https://github.com/Anton4wave/Airbnb-price-prediction/assets/100091790/fb04095b-3d17-45a1-ae4e-ea9692010658)
 
 
+## Conclusion 
 
 
