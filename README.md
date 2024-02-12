@@ -30,10 +30,22 @@ Histograma of neighbourhoods
 ![image](https://github.com/Anton4wave/Airbnb-price-prediction/assets/100091790/640d218a-847c-4b44-ab32-6f25878df895)
 
 
-
-
-
 ## Prediction 
+
+Metrics for this project: For this task, I took RMSE as a metric
+
+Modeling:
+
+- As Baseline I took XGBRegressor and RandomForestRegressor with Kfold 
+
+- Then tuning with Optuna for CatboostRegressor
+
+- Final model with CatboostRegressor with best parameters
+
+- Got RMSE = 79 - best value 
+
+![image](https://github.com/Anton4wave/Airbnb-price-prediction/assets/100091790/fb04095b-3d17-45a1-ae4e-ea9692010658)
+
 
 
 
