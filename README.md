@@ -1,7 +1,5 @@
 # Airbnb-price-prediction
-Airbnb-price-prediction
-Добавьте краткое описание проекта, опишите какую задачу он решает. 1-3 предложения будет достаточно. Добавьте бейджи для важных статусов проекта: статус разработки (в разработке, на поддержке и т.д.), статус билда, процент покрытия тестами и тд.
-
+The dataset contains information about Airbnb in New York. Price analysis can reveal a lot. Show the dependence of prices on the area and on the area of ​​the apartment. Nowadays, Airbnb performs an indispensable function for both tourists and ordinary citizens, so housing prices should be objective, that is, reflect the quality of the map/house, as well as its location.
 ## Содержание
 - [Технологии](#технологии)
 - [Начало работы](#начало-работы)
