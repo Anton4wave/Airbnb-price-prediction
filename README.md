@@ -50,4 +50,4 @@ Modeling:
 
 ## Conclusion 
 
-Trained a model with RMSE = 79 and received feauture importance of CatBoost. It can be argued that the most important feature influencing the price is Entire home. Prices depending on the area can be seen in this graph:
+Trained a model with RMSE = 79 and received feauture importance of CatBoost. It can be argued that the most important feature influencing the price is Entire home and minimum nights. Prices depending on the area can be seen in this graph:
