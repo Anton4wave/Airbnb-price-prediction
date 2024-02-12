@@ -51,3 +51,6 @@ Modeling:
 ## Conclusion 
 
 Trained a model with RMSE = 79 and received feauture importance of CatBoost. It can be argued that the most important feature influencing the price is Entire home and minimum nights. Prices depending on the area can be seen in this graph:
+
+![image](https://github.com/Anton4wave/Airbnb-price-prediction/assets/100091790/640ded07-7731-47a3-93f9-2ca5400d880f)
+
